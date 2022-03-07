@@ -1,0 +1,16 @@
+.widget-wrapper{
+    width: 400px;
+    margin: 0 auto;
+}
+.suggestions{
+    position: absolute;
+    background: #fff;
+}
+.suggestion{
+    border: 1px solid black;
+    padding: 10px;
+}
+.suggestion:hover{
+    background: #d2d2d2;
+    cursor: pointer;
+}
